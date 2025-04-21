@@ -1,1 +1,4 @@
-暂无README
+实践项目：ai生成ppt
+本项目使用deepseek配合kimiAI，生成了一个介绍衢州孔文华的PPT
+其中deepseek用于生成了介绍衢州孔文华的MarkDown描述文件
+再使用Kimi+PPT助手将deepseek生成的MD文件转化为PPTX文件
